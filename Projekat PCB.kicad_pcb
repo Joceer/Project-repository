@@ -1310,13 +1310,14 @@
 		)
 	)
 	(footprint "MSD-3-A:CUI_MSD-3-A"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "0437fe9d-f3a2-41a2-8f9a-617e58c54e48")
 		(at 142.0276 103.1128 90)
 		(property "Reference" "J3"
 			(at 0.89425 -10.35 90)
 			(layer "F.SilkS")
-			(uuid "5acb2751-3a39-4a03-9083-7b52aab2b088")
+			(uuid "e2b91e06-4096-47f7-8dc5-c896f0dd55ad")
 			(effects
 				(font
 					(size 1 1)
@@ -1327,7 +1328,7 @@
 		(property "Value" "MSD-3-A"
 			(at 0.89425 13.6135 90)
 			(layer "F.Fab")
-			(uuid "ae6c9b8f-ee5a-4c52-8fa6-8b06a21d5d45")
+			(uuid "426fa934-4476-47e1-9d97-ee66dc55b82a")
 			(effects
 				(font
 					(size 1 1)
@@ -1339,7 +1340,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1cb12505-7e0c-49d0-88e1-7e563c19a07a")
+			(uuid "16bee1b8-d29a-4511-abe4-71e5297f2355")
 			(effects
 				(font
 					(size 1 1)
@@ -1351,7 +1352,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c87f9c5-d8e2-4414-a508-f88706073523")
+			(uuid "3725c144-1de4-4ad5-be3d-4eba688ee4af")
 			(effects
 				(font
 					(size 1 1)
