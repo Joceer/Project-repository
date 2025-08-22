@@ -1790,6 +1790,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "MicroSD card Reader"
+		(exclude_from_sim no)
+		(at 144.272 26.67 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "469cb47d-6b8d-4dad-96a6-61d32613f21b")
+	)
 	(junction
 		(at 135.89 77.47)
 		(diameter 0)
@@ -3482,7 +3494,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MSD-3-A"
+		(property "Value" "MSD-3-A MicroSD card socket"
 			(at 222.25 113.6649 0)
 			(effects
 				(font
@@ -3644,7 +3656,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC125"
+		(property "Value" "74LVC125 Buffer"
 			(at 106.68 85.09 0)
 			(effects
 				(font
