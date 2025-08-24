@@ -22184,7 +22184,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4330.71 mils"
+		(gr_text "110.00 mm"
 			(at 28.75 95 90)
 			(layer "Dwgs.User")
 			(uuid "19a7b77c-741b-4273-9c12-05560d47b619")
@@ -22220,7 +22220,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4173.23 mils"
+		(gr_text "106.00 mm"
 			(at 93 29.95 0)
 			(layer "Dwgs.User")
 			(uuid "508cb93c-d9fa-4e1a-b78d-ada8a898c723")
@@ -26325,7 +26325,7 @@
 		(uuid "ff8f6dd5-daf3-4e99-b11a-1a30e99a982a")
 	)
 	(via
-		(at 109.22 78.74)
+		(at 111.8312 81.8772)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26378,7 +26378,7 @@
 		(uuid "0225842b-920d-4361-b22c-f0d53c0b52b5")
 	)
 	(via
-		(at 114.3 78.74)
+		(at 116.9112 81.8772)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26421,7 +26421,7 @@
 		(uuid "088c1770-5e8c-4fa3-9ee4-480566d4102f")
 	)
 	(via
-		(at 111.76 78.74)
+		(at 114.3712 81.8772)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26609,7 +26609,7 @@
 		(uuid "31e4f3c7-2771-4280-9915-9e9dcec4b1f8")
 	)
 	(via
-		(at 114.3 82.804)
+		(at 116.9112 85.9412)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26645,7 +26645,7 @@
 		(uuid "367bf8ad-ddca-450c-9b12-a7717025c07e")
 	)
 	(via
-		(at 114.3 80.772)
+		(at 116.9112 83.9092)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26831,7 +26831,7 @@
 		(uuid "76378ae5-550d-430e-87b7-9f4ba67714d0")
 	)
 	(via
-		(at 111.76 80.772)
+		(at 114.3712 83.9092)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26953,7 +26953,7 @@
 		(uuid "8c8e49df-4b11-48dd-aa2a-d92a4447a07c")
 	)
 	(via
-		(at 111.76 82.804)
+		(at 114.3712 85.9412)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26962,7 +26962,7 @@
 		(uuid "8cfc6888-a355-4a37-b396-851b0031216a")
 	)
 	(via
-		(at 109.22 82.804)
+		(at 111.8312 85.9412)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -27138,7 +27138,7 @@
 		(uuid "b5c6db3d-75b4-4223-86b9-f927959235e4")
 	)
 	(via
-		(at 109.22 80.772)
+		(at 111.8312 83.9092)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
